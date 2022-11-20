@@ -2,7 +2,7 @@
    3D BUTTON 1
    ===================== */
     .buttons3d{
-      --BTN-1-BG: orangered;  
+      --BTN-1-BG: rgb(1, 1, 1);  
       --BTN-1-SHADOW: hsl(16, 100%, 30%);
       --BTN-1-HOVER: hsl(16, 100%, 45%);
       --BTN-1-ACTIVE: hsl(16, 100%, 40%);
